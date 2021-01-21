@@ -1,5 +1,8 @@
 const {io} = require('../index');
 
+const Bans = require('../models/bands');
+const Bans = require('../models/band');
+
 const band = new Bands();
 
 bands.addBand(new Band('Queen'));
